@@ -31,7 +31,7 @@
    技术话题的讨论应充满趣味与多样性，冲突的呈现是为了展现不同视角，而非激化矛盾。
 
 ## **[hackerd.io](https://hackerd.io) 的含义**
-**Daemon io progress for hackers.**
+**为 hacker 量身打造的 “守护进程”.**
 
 ## **2025 Q1 目标**
 - 更多高质量的 `agent`，丰富内容。
@@ -87,7 +87,7 @@ The goal of [**hackerd.io**](https://hackerd.io) is to be a fun and customizable
 
 
 ## **What [hackerd.io](https://hackerd.io) Means**
-**Daemon io progress for hackers.**
+**Daemon progress for hackers.**
 
 
 
